@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6f8d6e1-5c30-4449-bd0b-7bd56675a4ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="false" />
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="localRepository" value="" />
+        <option name="mavenHome" value="" />
+        <option name="nonRecursive" value="false" />
+        <option name="outputLevel" value="INFO" />
+        <option name="pluginUpdatePolicy" value="DEFAULT" />
+        <option name="printErrorStackTraces" value="false" />
+        <option name="usePluginRegistry" value="false" />
+        <option name="userSettingsFile" value="" />
+        <option name="workOffline" value="false" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="false" />
+        <option name="createModulesForAggregators" value="true" />
+        <option name="dedicatedModuleDir" value="" />
+        <option name="downloadDocsAutomatically" value="false" />
+        <option name="downloadSourcesAutomatically" value="false" />
+        <option name="excludeTargetFolder" value="true" />
+        <option name="generatedSourcesFolder" value="AUTODETECT" />
+        <option name="importAutomatically" value="false" />
+        <option name="keepSourceFolders" value="true" />
+        <option name="lookForNested" value="false" />
+        <option name="updateFoldersOnImportPhase" value="process-resources" />
+        <option name="useMavenOutput" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list />
+    </option>
+  </component>
+  <component name="ProjectId" id="2JqBmWg7YjKi78cDZyAenZq8oVu" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629192707287" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\idea_projects\shop\src" />
+      <recent name="D:\Program Files\idea_projects\shop\web\WEB-INF" />
+      <recent name="D:\Program Files\idea_projects\shop\web" />
+      <recent name="D:\Program Files\idea_projects\shop\src\edu\school" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat-7.0.93">
+    <configuration name="DataSourceUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.school.utils.DataSourceUtils" />
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat-7.0.93" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-7.0.93" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/web/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="javadebug" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DataSourceUtils" />
+      <item itemvalue="Tomcat Server.tomcat-7.0.93" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataSourceUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19828641" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6f8d6e1-5c30-4449-bd0b-7bd56675a4ca" name="Default Changelist" comment="" />
+      <created>1629179846573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629179846573</updated>
+      <workItem from="1629179849300" duration="3102000" />
+      <workItem from="1672795897503" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672796067267">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1672796067267" />
+    <state x="701" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1672795913580">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="701" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1672795913580" />
+    <state width="1309" height="370" key="GridCell.Tab.0.bottom" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.0.center" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.0.left" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.0.right" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.1.bottom" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state width="1309" height="370" key="GridCell.Tab.1.center" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.1.left" timestamp="1672796602564">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602564" />
+    <state width="1309" height="370" key="GridCell.Tab.1.right" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state width="1309" height="370" key="GridCell.Tab.2.bottom" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.2.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state width="1309" height="370" key="GridCell.Tab.2.center" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.2.center/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state width="1309" height="370" key="GridCell.Tab.2.left" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.2.left/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state width="1309" height="370" key="GridCell.Tab.2.right" timestamp="1672796602565">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1309" height="370" key="GridCell.Tab.2.right/0.0.1707.1027@0.0.1707.1027" timestamp="1672796602565" />
+    <state x="534" y="246" width="638" height="534" key="find.popup" timestamp="1672796267619">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="246" width="638" height="534" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1672796267619" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
